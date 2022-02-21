@@ -20,7 +20,7 @@ Agenda : INSTAGRAM  - Product Overview, Clone, and Hosting</br>
 
 ✅ Introduction- DONE </br>
 ✅ Scope and Definition- DONE </br>
-✅ Spotify as a Product- DONE </br>
+✅ Instagram as a Product- DONE </br>
 ✅ Live Demo of Clone- Web Version- DONE </br>
 ✅ Requirement clarification - DONE </br>
 - Functional </br>
@@ -30,7 +30,7 @@ Agenda : INSTAGRAM  - Product Overview, Clone, and Hosting</br>
 ✅ Intro to React Js </br>
 ✅ Environment Setup- VS Code- DONE </br>
 ✅ Github Account - DONE </br>
-✅ Create Repo: spotify clone by __: DONE </br>
+✅ Create Repo: Instagram clone by __: DONE </br>
 ✅ BEM Model in CSS (Block, Element, Modifier) : DONE </br>
 ✅ Heroku Account: DONE </br>
 ✅ Firebase Account: DONE </br>
@@ -96,7 +96,7 @@ Two Methods: </br>
 
 git status</br>
 git add . (Don't Use Node Modules)</br>
-git commit -m "Added Spotify"</br>
+git commit -m "Added Instagram"</br>
 git push</br>
 </br>
 
@@ -109,7 +109,7 @@ git push</br>
 (6) Deploy on Heroku</br>
 
 </br>
-Build Will be Successful and Spotify Clone would be published to a LIVE Website.
+Build Will be Successful and Instagram Clone would be published to a LIVE Website.
 
 ### 🚀 Ending:</br>
 
